@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+grocery-list
+grocery_list_tests
+app
+data/
+core
